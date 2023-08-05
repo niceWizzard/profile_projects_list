@@ -4,7 +4,7 @@
       description: "A wordle clone game for the web",
       url: "https://wordlery.netlify.app/",
       image: "wordlery.png",
-      tags: ["Angular", "SCSS", "TypeScript", "HTML", "Netlify"],
+      tags: ["Angular", "SCSS", "TypeScript", "HTML", "Netlify"]
     }
   
 ]
