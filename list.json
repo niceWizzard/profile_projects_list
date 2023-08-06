@@ -5,6 +5,13 @@
         "url": "https://wordlery.netlify.app/",
         "image": "wordlery.png",
         "tags": ["Angular", "SCSS", "TypeScript", "HTML", "Netlify"]
-      }
+    },
+    {
+        "name": "Zombrawl.io",
+        "description": "A 2d topdown survival shooting game. ",
+        "url": "https://coderrm23.itch.io/zombrawlio",
+        "image": "zombral_pic.png",
+        "tags": ["Game", "Godot Engine"]
+    }
   
 ]
