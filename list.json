@@ -1,5 +1,12 @@
 [
     {
+        "name": "Forum Post",
+        "description": "A simple forum website for sharing to the community! Similar to reddit.",
+        "url": "http://forum-post.vercel.app/",
+        "image": "forum_post.png",
+        "tags": ["Website", "NextJS", "Typescript", "Fullstack"],
+    },
+    {
         "name": "Wordlery",
         "description": "A wordle clone game for the web",
         "url": "https://wordlery.netlify.app/",
@@ -12,6 +19,14 @@
         "url": "https://coderrm23.itch.io/zombrawlio",
         "image": "zombrawl_pic.png",
         "tags": ["Game", "Godot Engine"]
+    },
+    {
+        "name": "Number Converter",
+        "description": "A simple website for converting numbers from and to different number systems. ",
+        "url": "https://ns-converter.netlify.app/",
+        "image": "number-converter.png",
+        "tags": ["Website", "Angular", "Typescript"]
     }
+    
   
 ]
